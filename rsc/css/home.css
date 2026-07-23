@@ -1,0 +1,26 @@
+body{
+    background-image: url("../IMG_9921.jpg");
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+    background-color: black;
+    overflow: hidden;
+    overscroll-behavior: none;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.panel{
+    width: 60%;
+    height: 80%;
+    padding: 20px;
+    background-color: aliceblue;
+}
